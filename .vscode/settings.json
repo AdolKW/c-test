@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "complex.h": "c",
+        "stdio.h": "c",
+        "calc.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "crtdefs.h": "c",
+        "_mingw.h": "c",
+        "_mingw_mac.h": "c",
+        "ctype.h": "c",
+        "cstddef": "c",
+        "string": "c",
+        "optional": "c",
+        "limits": "c",
+        "memory": "c",
+        "new": "c",
+        "type_traits": "c",
+        "sstream": "c",
+        "windows.h": "c",
+        "winresrc.h": "c",
+        "*.rh": "c",
+        "dlgs.h": "c",
+        "winver.h": "c"
+    }
+}
